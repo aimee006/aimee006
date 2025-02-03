@@ -1,4 +1,4 @@
-## Seja bem-vindo 😁
+## Bem-vindo
 
  <div>
    <a href="https://github.com/aimee006">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Aprendendo programação!
+### Aprendendo programação
  
 <div>
   <a href="https://www.linkedin.com/in/aim%C3%A9e-diniz-monteiro-corr%C3%AAa-2b9059345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
